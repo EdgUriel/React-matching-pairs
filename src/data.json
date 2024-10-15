@@ -1,0 +1,56 @@
+{
+  "cards": [
+    {
+      "name": "francrepas",
+      "src": "/images/cards/francrepas.webp"
+    },
+    {
+      "name": "harbinger",
+      "src": "/images/cards/harbinger.webp"
+    },
+    {
+      "name": "holofernes",
+      "src": "/images/cards/holofernes.webp"
+    },
+    {
+      "name": "mouillevent",
+      "src": "/images/cards/mouillevent.webp"
+    },
+    {
+      "name": "painensac",
+      "src": "/images/cards/painensac.webp"
+    },
+    {
+      "name": "epistemon",
+      "src": "/images/cards/epistemon.webp"
+    },
+    {
+      "name": "esquire",
+      "src": "/images/cards/esquire.webp"
+    },
+    {
+      "name": "grangousier",
+      "src": "/images/cards/grangousier.webp"
+    },
+    {
+      "name": "wetgullet",
+      "src": "/images/cards/wetgullet.webp"
+    },
+    {
+      "name": "eabbe",
+      "src": "/images/cards/eabbe.webp"
+    },
+    {
+      "name": "gargamelle",
+      "src": "/images/cards/gargamelle.webp"
+    },
+    {
+      "name": "jobeliness",
+      "src": "/images/cards/jobeliness.webp"
+    }
+  ],
+  "cover": {
+    "name": "cover",
+    "src": "/images/cards/cover.webp"
+  }
+}
